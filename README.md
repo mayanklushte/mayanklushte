@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayanklushte
-- 👀 I’m interested in learing new things and then applying them in my projects
+- 👀 I’m interested in learning new things and then applying them in my projects
 - 🌱 I’m currently learning Django rest framework and react.js 
 - 💞️ I’m looking to collaborate on django projects which are unique and have certain challenges to build 
 
